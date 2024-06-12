@@ -1,4 +1,4 @@
-
+# It is all about building a easy docker project through this example.
 def main():
     import logging
     import time
